@@ -32,13 +32,7 @@ public class PROGRAM2 {
 		getcount("%MM%&&&ADC");
 		getcount("JAVA IS THE PROGRAMMING");	 
 			 
-		getcount("hi");	
-		getcount("bye");	
-		getcount("JAVA");	
-		
-		getcount("hi");	
-		getcount("bye");	
-		getcount("JAVA");	
+	
 		
 	
 		
