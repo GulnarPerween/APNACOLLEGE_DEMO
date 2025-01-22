@@ -36,6 +36,10 @@ public class PROGRAM2 {
 		getcount("bye");	
 		getcount("JAVA");	
 		
+		getcount("hi");	
+		getcount("bye");	
+		getcount("JAVA");	
+		
 	
 		
 		}
