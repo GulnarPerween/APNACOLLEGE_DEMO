@@ -7,7 +7,7 @@ public static void main(String[] args) {
 	 
 	        
 	        String str= "I AM AUTOMATION TESTER";
-	        String str= "I AM AUTOMATION TESTER";
+	        //String str= "I AM AUTOMATION TESTER";
 	        str=str + " ";
 	        String s="";
 	              
