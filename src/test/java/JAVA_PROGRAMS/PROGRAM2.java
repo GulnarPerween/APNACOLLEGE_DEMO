@@ -35,6 +35,15 @@ public class PROGRAM2 {
 		getcount("HELLO");	
 		getcount("LOVE");	
 		getcount("JAVA");	
+		
+		getcount("HELLO");	
+		getcount("LOVE");	
+		getcount("JAVA");
+		
+		getcount("HELLO");	
+		getcount("LOVE");	
+		getcount("JAVA");
+		
 		}
 		
 		 
